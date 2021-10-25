@@ -1,0 +1,24 @@
+/*
+  const options = {
+    apiKey: 'CAEfkyg1aLkW-jFuwR4I7dUxdnaYHLLAP_IZ7iUjHYPj0EqNflpVGBBza38ilq-4', // Genius Developer Access Token
+    title: 'Larg',
+    artist: 'Elgit Doda',
+    optimizeQuery: true, // Setting this to true will optimize the query for the best results
+    authHeader: false // Wheter to include auth header in the search request. 'false' by default. 
+  };
+
+
+  const getTheLyrics = () => {
+    getLyrics(options).then((lyrics) => console.log(lyrics));
+
+  getSong(options).then((song) =>
+    console.log(`
+	${song.id}
+	${song.title}
+	${song.url}
+	${song.albumArt}
+	${song.lyrics}`)
+  );
+  }
+
+  */
