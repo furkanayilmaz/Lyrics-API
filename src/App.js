@@ -7,7 +7,7 @@ function App() {
   const [displayData, setDisplayData] = useState(false) 
 
   const options = {
-    apiKey: 'CAEfkyg1aLkW-jFuwR4I7dUxdnaYHLLAP_IZ7iUjHYPj0EqNflpVGBBza38ilq-4', // Genius Developer Access Token
+    apiKey: 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx', // Genius Developer Access Token
     title: `${query}`,
     artist: `${query}`,
     optimizeQuery: true, // Setting this to true will optimize the query for the best results
